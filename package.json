@@ -1,16 +1,16 @@
 {
-  "name": "@labshare/services-cache",
+  "name": "@niaid/services-cache",
   "namespace": "",
   "main": "./",
   "version": "1.18.508",
-  "description": "LabShare Cache Services",
-  "contributors": "https://github.com/LabShare/services-cache/graphs/contributors",
+  "description": "NIAID Hedwig (LabShare) Cache Services",
+  "contributors": "https://github.com/niaid/services-cache/graphs/contributors",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LabShare/services-cache.git"
+    "url": "https://github.com/niaid/services-cache.git"
   },
   "bugs": {
-    "url": "https://github.com/LabShare/services-cache/issues"
+    "url": "https://github.com/niaid/services-cache/issues"
   },
   "license": "MIT",
   "dependencies": {
